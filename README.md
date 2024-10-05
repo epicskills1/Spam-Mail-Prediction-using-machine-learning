@@ -9,3 +9,6 @@ The app will classify the email as either spam or ham.
 Displays model accuracy on test data.
 Simple and intuitive web interface built with Streamlit.
 Hosted online via pyngrok, allowing easy sharing of the app.
+
+![{DFB66D2B-9E6A-4DC4-9B54-6499F056FC3A}](https://github.com/user-attachments/assets/29fd5d61-af1d-4f21-bfde-6ef90d05a407)
+
