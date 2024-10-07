@@ -3,7 +3,6 @@
 ![{DFB66D2B-9E6A-4DC4-9B54-6499F056FC3A}](https://github.com/user-attachments/assets/da39dc7e-c43e-43e6-b5fc-0f776da54f6e)
 
 
-Spam Mail Prediction using Logistic Regression.
 This is a Streamlit-based web app that predicts whether an email is spam or ham (not spam) using machine learning. The app utilizes a Logistic Regression model and is hosted using pyngrok for public access.
 
 Features
